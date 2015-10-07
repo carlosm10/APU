@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Base path: /Applications/Unity5.1.2/Unity5.1.2.app/Contents
 Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2058613504
 Cmd: getPlatforms
@@ -65,3 +66,12 @@ Cmd: compileSnippet
   api=0 type=0 insize=3569 outsize=1441 kw=DIRECTIONAL ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=3569 outsize=6 kw=DIRECTIONAL ok=1
+=======
+Base path: C:/Program Files (x86)/Unity_5.1.0p_32/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-6572
+Cmd: getPlatforms
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
+>>>>>>> 5d7aa16c29efdab26b321238e4461f997211dd1c
